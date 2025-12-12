@@ -1,4 +1,4 @@
-# ECS Workshop Application - System Requirements
+# ECS Workshop Application - System Requirements.
 
 ## Overview
 This file lists all dependencies and tools required to develop, test, and deploy the ECS Workshop Application locally and to AWS ECS.
